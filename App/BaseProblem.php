@@ -7,7 +7,7 @@ use App\Service\Math;
 abstract class BaseProblem
 {
 
-    protected int $resultValue = 0;
+    protected $resultValue = 0;
     protected $startTime;
     public string $description;
 

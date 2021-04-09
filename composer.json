@@ -9,7 +9,8 @@
   "require": {
     "php-di/php-di": "^6.3",
     "paquettg/php-html-parser": "^3.1",
-    "league/html-to-markdown": "^5.0"
+    "league/html-to-markdown": "^5.0",
+    "brick/math": "^0.9.2"
   },
   "autoload": {
     "psr-4": {
